@@ -6,7 +6,7 @@ Rock Paper Scissors implementation in C++
 
 * Source files are inside src directory
 
-<<To test>>
+--To test--
 1. place all the folders under the apache directory
 
 2. access it by typing your-domain-name/cgi-bin/rps_client.cgi
